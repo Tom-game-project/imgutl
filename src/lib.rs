@@ -1,3 +1,5 @@
+//documentの記述
+///image util for rust 🌁🦀
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
